@@ -5,7 +5,7 @@
 
   const links = {
     cloudflare: "https://www.cloudflare.com/privacypolicy/",
-    email: "mailto:support@bridgetoaac.com?subject=Picture%20Practice%20privacy",
+    email: "mailto:support@teacher.dev?subject=Picture%20Practice%20privacy",
   };
 </script>
 

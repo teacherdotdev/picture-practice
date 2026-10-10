@@ -102,7 +102,7 @@ export default {
     "about.promise.tracking": "Zero tracking of personal data.",
     "about.feedback.title": "Feedback & ideas",
     "about.feedback.body": "We’d love to hear from you. Tell us what’s working, what’s not, or pitch us an idea for a tool you wish existed. We’re here to help.",
-    "about.feedback.button": "Email support@bridgetoaac.com",
+    "about.feedback.button": "Email support@teacher.dev",
 
     "privacy.title": "Privacy",
     "privacy.intro": "What we collect, what we don’t, and why.",
@@ -114,7 +114,7 @@ export default {
     "privacy.device.language": "The language you choose is the one thing we remember between visits. It is kept in the browser’s own storage so a shared classroom tablet stays in the language it was set to, it is never sent to us, and clearing the browser’s data removes it.",
     "privacy.device.speech": "Prompts like “{prompt}” are spoken by the built-in voice already on the device. Nothing the learner touches, hears, or sees is recorded or sent anywhere.",
     "privacy.contact.title": "Questions",
-    "privacy.contact.body": "Questions or concerns? Email [support@bridgetoaac.com](email).",
+    "privacy.contact.body": "Questions or concerns? Email [support@teacher.dev](email).",
   },
 
   topics: {

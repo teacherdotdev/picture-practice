@@ -97,7 +97,7 @@ export default {
     "about.promise.tracking": "لا تتبّع للبيانات الشخصية.",
     "about.feedback.title": "الملاحظات والأفكار",
     "about.feedback.body": "يسعدنا أن نسمع منك. أخبرنا بما ينجح وما لا ينجح، أو اقترح علينا فكرة لأداة تتمنى وجودها. نحن هنا للمساعدة.",
-    "about.feedback.button": "راسلنا على support@bridgetoaac.com",
+    "about.feedback.button": "راسلنا على support@teacher.dev",
 
     "privacy.title": "الخصوصية",
     "privacy.intro": "ما الذي نجمعه، وما الذي لا نجمعه، ولماذا.",
@@ -109,7 +109,7 @@ export default {
     "privacy.device.language": "اللغة التي تختارها هي الشيء الوحيد الذي نتذكره بين زيارة وأخرى. تُحفظ في تخزين المتصفح نفسه ليبقى اللوحي المشترك في الفصل على اللغة التي ضُبط عليها، ولا تصلنا أبدًا، وتُمحى عند مسح بيانات المتصفح.",
     "privacy.device.speech": "التعليمات مثل «{prompt}» ينطقها الصوت المثبّت أصلًا على الجهاز. لا يُسجَّل أي شيء يلمسه المتعلم أو يسمعه أو يراه، ولا يُرسل إلى أي مكان.",
     "privacy.contact.title": "أسئلة",
-    "privacy.contact.body": "هل لديك سؤال أو ملاحظة؟ راسلنا على [support@bridgetoaac.com](email).",
+    "privacy.contact.body": "هل لديك سؤال أو ملاحظة؟ راسلنا على [support@teacher.dev](email).",
   },
 
   topics: {

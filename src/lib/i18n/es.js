@@ -95,7 +95,7 @@ export default {
     "about.promise.tracking": "Cero seguimiento de datos personales.",
     "about.feedback.title": "Comentarios e ideas",
     "about.feedback.body": "Nos encantaría saber de ti. Cuéntanos qué funciona, qué no, o proponnos una idea para una herramienta que te gustaría tener. Estamos para ayudar.",
-    "about.feedback.button": "Escribe a support@bridgetoaac.com",
+    "about.feedback.button": "Escribe a support@teacher.dev",
 
     "privacy.title": "Privacidad",
     "privacy.intro": "Qué recopilamos, qué no, y por qué.",
@@ -107,7 +107,7 @@ export default {
     "privacy.device.language": "El idioma que elijas es lo único que recordamos entre una visita y otra. Se guarda en el almacenamiento del propio navegador para que una tableta compartida del aula siga en el idioma configurado, nunca se nos envía, y se borra al borrar los datos del navegador.",
     "privacy.device.speech": "Instrucciones como «{prompt}» las dice la voz que ya viene instalada en el dispositivo. Nada de lo que el estudiante toca, oye o ve se graba ni se envía a ningún sitio.",
     "privacy.contact.title": "Preguntas",
-    "privacy.contact.body": "¿Tienes dudas o preguntas? Escribe a [support@bridgetoaac.com](email).",
+    "privacy.contact.body": "¿Tienes dudas o preguntas? Escribe a [support@teacher.dev](email).",
   },
 
   topics: {
